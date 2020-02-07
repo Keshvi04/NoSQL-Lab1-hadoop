@@ -1,4 +1,5 @@
 NoSQL_Hadoop-Lab-1
+
 This Lab consists of Map Reduce programs on Hadoop.
 
 Question 2: Input file consists of the NCDC weather data and the Map Reduce program returns yearly the Maximum Temperature recorded.
